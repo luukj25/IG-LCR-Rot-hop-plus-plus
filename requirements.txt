@@ -1,0 +1,7 @@
+torch==2.0.0
+numpy==1.26.4
+transformers
+scikit-learn
+hyperopt
+rdflib
+requests
